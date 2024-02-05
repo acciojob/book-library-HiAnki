@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+
+body{
+    background-color: #f8f8f8;
+}
+.book-library{
+    padding: 20px;
+}
+.book{
+    background-color: #ffffff;
+    margin: 20px;
+}
+.price{
+    background-color: #2ecc71;
+    border-radius: 5px;
+    margin: 0 20px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.title{
+    margin: 0 20px;
+}
+.author{
+    color: #777777;
+}
+img{
+    margin-left: 40%;
+    margin-top: 20px;
+}
